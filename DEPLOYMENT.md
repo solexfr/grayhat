@@ -1,4 +1,4 @@
-# Pentastic — Update Guide (Ubuntu 24.04)
+# GrayHat — Update Guide (Ubuntu 24.04)
 
 App lives at `/opt/expressmessenger`. All commands run as root or with sudo.
 
